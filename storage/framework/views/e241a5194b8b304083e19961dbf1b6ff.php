@@ -1,0 +1,1 @@
+<?php /**PATH O:\OSPanel\domains\JobFinder-Job-Portal-Laravel-Vue-Script-main\resources\views/frontend/partials/blog.blade.php ENDPATH**/ ?>
